@@ -1,0 +1,9 @@
+{ 
+  "manifest_version" : 2,
+
+  "name" : "Shop Share",
+  "description" : "A little chrome extension for quickly sharing shopping baskets for shared shops.",
+  "version" : "1.0"
+
+
+}
